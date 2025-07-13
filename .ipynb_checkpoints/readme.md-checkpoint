@@ -1,0 +1,65 @@
+# 🏏 IPL Data Analysis and Visualization Project
+
+This project uses IPL match and ball-by-ball data to explore trends, team and player performances using Python, Pandas, and Seaborn.
+
+---
+
+## 📁 Dataset
+
+- Source: [Kaggle - IPL Dataset](https://www.kaggle.com/datasets/rahulbhalley/ipl-dataset)
+- Files used:
+  - `matches.csv`: Summary of each IPL match
+  - `deliveries.csv`: Ball-by-ball data for all IPL seasons
+
+---
+
+## 🛠️ Tools & Libraries Used
+
+- Python 3
+- Pandas
+- Matplotlib
+- Seaborn
+- Jupyter Notebook / Google Colab
+
+---
+
+## 📊 Key Analysis & Visualizations
+
+- Most successful IPL teams (wins)
+- Number of matches hosted by each city
+- Toss decisions and their impact
+- Top 10 batsmen by total runs
+- Top 10 bowlers by wickets taken
+- Match trends by season
+
+---
+
+## 📈 Sample Visuals
+
+- Bar plots for team performance
+- Countplots for toss decisions
+- Line plots for seasonal trends
+
+---
+
+## 🚀 How to Run
+
+1. Clone or download this repository.
+2. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/rahulbhalley/ipl-dataset).
+3. Place `matches.csv` and `deliveries.csv` in the same folder as the notebook.
+4. Open `IPL_Data_Analysis_Project.ipynb` in Jupyter Notebook or Google Colab.
+5. Run all cells step-by-step.
+
+---
+
+## ✅ Outcomes
+
+- Identified top teams and players in IPL history
+- Visualized key trends and match statistics
+- Practiced data wrangling, grouping, and charting
+
+---
+
+## 📧 Contact
+
+Created by **Manish Chauhan** 
